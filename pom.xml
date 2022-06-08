@@ -1,1 +1,14 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"   
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0   
+http://maven.apache.org/xsd/maven-4.0.0.xsd">  
+  
+  <modelVersion>4.0.0</modelVersion>  
+  <groupId>com.javatpoint.application1</groupId>  
+  <artifactId>my-app</artifactId>  
+  <version>1</version>  
+  
+</project>
+=======
 
+>>>>>>> 20ad5d4c18cdbef10bc016e40f1e2a68933b69f9
